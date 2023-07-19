@@ -13,10 +13,9 @@
     <PackageProjectUrl>https://github.com/DxCK/DataAnnotationsValidatorRecursive.NetStandard.Signed</PackageProjectUrl>
     <PackageTags>DataAnnotation validation validator</PackageTags>
     <Title>DataAnnotationsValidator</Title>
-    <Description>The helper will recursively traverse your object graph and invoke validation against DataAnnotations. This originated from following Stackoverflow answer: http://stackoverflow.com/a/8090614/605586</Description>
     <AssemblyTitle>TryValidateObjectRecursive</AssemblyTitle>
     <Product>TryValidateObjectRecursive</Product>
-    <Description>Allows scanning object graph and validates every object using .NET standatd System.ComponentModel.DataAnnotations.Validator</Description>
+    <Description>Forked from DataAnnotationsValidator by Mike Reust. Allows scanning object graph and validates every object using .NET standatd System.ComponentModel.DataAnnotations.Validator. The helper will recursively traverse your object graph and invoke validation against DataAnnotations. This originated from following Stackoverflow answer: http://stackoverflow.com/a/8090614/605586</Description>
     <Copyright>Copyright © 2023</Copyright>
     <Version>2.3.0.0</Version>
     <AssemblyVersion>2.3.0.0</AssemblyVersion>
